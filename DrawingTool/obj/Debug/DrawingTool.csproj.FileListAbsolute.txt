@@ -1,0 +1,9 @@
+D:\Projects\DrawingTool\DrawingTool\bin\Debug\DrawingTool.exe.config
+D:\Projects\DrawingTool\DrawingTool\bin\Debug\DrawingTool.exe
+D:\Projects\DrawingTool\DrawingTool\bin\Debug\DrawingTool.pdb
+D:\Projects\DrawingTool\DrawingTool\obj\Debug\DrawingTool.csprojResolveAssemblyReference.cache
+D:\Projects\DrawingTool\DrawingTool\obj\Debug\DrawingTool.frmMain.resources
+D:\Projects\DrawingTool\DrawingTool\obj\Debug\DrawingTool.Properties.Resources.resources
+D:\Projects\DrawingTool\DrawingTool\obj\Debug\DrawingTool.csproj.GenerateResource.Cache
+D:\Projects\DrawingTool\DrawingTool\obj\Debug\DrawingTool.exe
+D:\Projects\DrawingTool\DrawingTool\obj\Debug\DrawingTool.pdb
